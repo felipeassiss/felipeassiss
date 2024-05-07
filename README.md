@@ -1,4 +1,4 @@
-## Olá, me chamo Felipe Assis e sou estudante de programação!
+## Oi, me chamo Felipe Assis e sou estudante de programação!
 
   ➡️ **Atualmente estou estudando**:
 <div style="display: inline_block"><br>
