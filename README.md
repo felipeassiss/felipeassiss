@@ -3,9 +3,9 @@
 Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de Ciência da Computação na **Universidade Católica de Pernambuco (UNICAP)**, atualmente cursando o 3º período.
 
 ## Sobre Mim
-- 🌱 Estou aprofundando meus conhecimentos em Desenvolvimento Web e Lógica de Programação.
-- 💡 Tenho interesse em criar aplicações práticas e funcionais.
-- 👨‍🎓 Buscando oportunidades para aprender e crescer na área de tecnologia.
+- 📌 Estou aprofundando meus conhecimentos em Desenvolvimento Web e Lógica de Programação.
+- 📌 Tenho interesse em criar aplicações práticas e funcionais.
+- 📌 Buscando oportunidades para aprender e crescer na área de tecnologia.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/be3d648b-7fb5-47ab-b11e-4cf30af419e7" alt="Logo Católica" width="200"/>
