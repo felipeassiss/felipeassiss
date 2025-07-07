@@ -1,4 +1,4 @@
-# Olá, me chamo Felipe Assis.
+# Welcome to my profile! 👋
 
 Bem-vindo(a) ao meu perfil no GitHub! Sou estudante de Ciência da Computação na **Universidade Católica de Pernambuco (UNICAP)**, atualmente cursando o 3º período.
 
