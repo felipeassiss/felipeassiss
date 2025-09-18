@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao meu perfil no GitHub! 👋
+# Bem-vindo(a) ao meu perfil no GitHub! :)
 
 Olá! Sou estudante de Ciência da Computação na **Universidade Católica de Pernambuco (UNICAP)**, atualmente cursando o 4º período.
 
