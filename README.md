@@ -15,7 +15,7 @@ Olá! Sou estudante de Ciência da Computação na **Universidade Católica de P
 
 ## Habilidades e Ferramentas:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,vscode,github,eclipse" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,vscode,github,eclipse,arduino" />
 </p>
 
 
