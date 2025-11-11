@@ -7,7 +7,7 @@ Olá! Me chamo Felipe e sou estudante de Ciência da Computação na **Universid
 </div>
 
 ## Sobre Mim:
-- Apaixonado por tecnologia e por tudo que envolve inovação.
+- Tenho interesse por tecnologia e por tudo que envolve inovação.
 - Gosto de criar projetos que desafiam meus conhecimentos e me ajudam a evoluir como desenvolvedor, sempre explorando novas ideias e ferramentas.
 - Gosto de aprender fazendo, aplicando o conhecimento téorico na prática.
 
