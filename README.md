@@ -1,21 +1,21 @@
 # Bem-vindo(a) ao meu perfil no GitHub! :)
 
-Olá! Sou estudante de Ciência da Computação na **Universidade Católica de Pernambuco (UNICAP)**, atualmente cursando o 4º período.
+Olá! Me chamo Felipe e sou estudante de Ciência da Computação na **Universidade Católica de Pernambuco (UNICAP)**, atualmente cursando o 4º período.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/be3d648b-7fb5-47ab-b11e-4cf30af419e7" alt="Logo Católica" width="200"/>
 </div>
 
 ## Sobre Mim:
--  Estou aprofundando meus conhecimentos em Desenvolvimento Web e Lógica de Programação.
--  Tenho interesse em criar aplicações práticas e funcionais.
--  Buscando oportunidades para aprender e crescer na área de tecnologia.
+- Apaixonado por tecnologia e por tudo que envolve inovação.
+- Gosto de criar projetos que desafiam meus conhecimentos e me ajudam a evoluir como desenvolvedor, sempre explorando novas ideias e ferramentas.
+- Gosto de aprender fazendo, aplicando o conhecimento téorico na prática.
 
 
 
 ## Habilidades e Ferramentas:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,python,vscode,github,eclipse,arduino" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,vscode,github,figma,arduino,idea" />
 </p>
 
 
