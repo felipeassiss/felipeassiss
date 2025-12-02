@@ -1,6 +1,6 @@
 # Bem-vindo(a) ao meu perfil no GitHub! :)
 
-Olá! Me chamo Felipe e sou estudante de Ciência da Computação na **Universidade Católica de Pernambuco (UNICAP)**, atualmente cursando o 4º período.
+Olá! Me chamo Felipe e sou estudante de Ciência da Computação na **Universidade Católica de Pernambuco**, atualmente cursando o 4º período.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/be3d648b-7fb5-47ab-b11e-4cf30af419e7" alt="Logo Católica" width="200"/>
