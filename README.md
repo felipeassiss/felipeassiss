@@ -1,9 +1,8 @@
 # Welcome to my GitHub Profile! :)
 
-Hello! My name is Felipe, and I am a Computer Science student at the **Catholic University of Pernambuco**, currently in my 4th semester.
+Hello! My name is Felipe, and I am a Computer Science student, currently in my 4th semester.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/be3d648b-7fb5-47ab-b11e-4cf30af419e7" alt="Católica Logo" width="200"/>
 </div>
 
 ## Skills & Tools:
