@@ -1,7 +1,12 @@
-# Welcome to my GitHub Profile! :)
+# Welcome to my GitHub Profile! <img src="https://i.gifer.com/origin/a6/a69d2ddd8253b756b708f93b15026f98_w200.gif" height="50" />
 
-Hi! My name is Felipe, and I'm a Computer Science major who enjoys coding, solving problems, and understanding how things work behind the scenes 
-<img src="https://www.flava.co.nz/media/1772223/giphy.gif" height="23" />
+
+
+Hi! My name is Felipe, and I'm a Computer Science major who enjoys coding, solving problems, and understanding how things work behind the scenes.
+
+<p align="center">
+  <img src="https://media.tenor.com/uPKBSSYU8BcAAAAj/computer-pixel.gif" height="160" />
+</p>
 
 ---
 
