@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile! :)
 
-Hello! My name is Felipe, and I am a Computer Science student, currently in my 4th semester.
+Hello! My name is Felipe, and I am a Computer Science major.
 
 <div align="center">
 </div>
