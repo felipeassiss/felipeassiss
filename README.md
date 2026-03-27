@@ -12,7 +12,7 @@ Hi! My name is Felipe, and I'm a Computer Science major who enjoys coding, solvi
 
 ## Skills & Tools
 
-| Category  | Stack |
+| Category  | Technologies |
 |-----------|-------|
 | Languages | <img src="https://skillicons.dev/icons?i=python,java,html,css" /> |
 | Database  | <img src="https://skillicons.dev/icons?i=postgres" /> |
