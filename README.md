@@ -8,26 +8,37 @@ Hi! My name is Felipe, and I'm a Computer Science major who enjoys coding, solvi
   <img src="https://media.tenor.com/uPKBSSYU8BcAAAAj/computer-pixel.gif" height="160" />
 </p>
 
----
 
 ## Skills & Tools
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?&logo=github)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=oracle&logoColor=F80000)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=336791)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat&logo=streamlit&logoColor=FF4B4B)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)
+![npm](https://img.shields.io/badge/-npm-000000?&logo=npm)
+![Vite](https://img.shields.io/badge/-Vite-000?&logo=vite)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-000000?style=flat&logo=googlecolab&logoColor=F9AB00)
+![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
+![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX&logoColor=008080)
+![Overleaf](https://img.shields.io/badge/-Overleaf-000?&logo=Overleaf)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
 
-| Category  | Technologies |
-|-----------|-------|
-| Languages | <img src="https://skillicons.dev/icons?i=python,java,html,css" /> |
-| Database  | <img src="https://skillicons.dev/icons?i=postgres" /> |
-| Frameworks | <img src="https://cdn.simpleicons.org/streamlit/white" height="48" /> |
-| Tools     | <img src="https://skillicons.dev/icons?i=github,vscode,idea,figma,arduino" /> |
-
----
 
 ## Contact Me
 
 <p align="center">
   <a href="mailto:felipeassisfsantos@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/felipe-assiss/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
