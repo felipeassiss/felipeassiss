@@ -22,6 +22,8 @@ Hi! My name is Felipe, and I'm a Computer Science major who enjoys coding, solvi
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+![Canva](https://img.shields.io/badge/-Canva-000000?style=flat&logo=canva)
+![Trello](https://img.shields.io/badge/-Trello-000000?style=flat&logo=trello)
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)
 ![npm](https://img.shields.io/badge/-npm-000000?&logo=npm)
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=vite)
