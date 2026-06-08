@@ -2,7 +2,7 @@
 
 
 
-Hi! My name is Felipe, and I'm a Computer Science major who enjoys coding, solving problems, and understanding how things work behind the scenes.
+Hi! My name is Felipe, and I'm a Computer Science major who enjoys coding, solving problems, and understanding how things work behind the scenes. I have a strong interest in software development in general, as well as machine learning.
 
 <p align="center">
   <img src="https://media.tenor.com/uPKBSSYU8BcAAAAj/computer-pixel.gif" height="160" />
