@@ -32,6 +32,7 @@ Hi! My name is Felipe, and I'm a Computer Science student interested in software
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX&logoColor=008080)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-000?&logo=Overleaf)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
+![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=flat&logo=adobephotoshop&logoColor=31A8FF&labelColor=000000)
 
 
 ## Contact Me
